@@ -12,4 +12,6 @@ just below “Kernel” Tab)
 click on Restart.
 7. The user will find outputs at end of each cell in file
 GC_test.ipynb, which is the file where initial code was run, debugged and in GC_UI.ipynb, the user will find UI in the last cell.
-8. UI_Video.mov is a screen recording of the running project. It may not play on a local system due to .mov extension, however it will play directly on google drive.
+
+
+[![Watch the video](https://drive.google.com/open?id=1C6iz2VyxyuGvCVv5HP2LQ1zCKq_4X3J_)
