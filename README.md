@@ -13,5 +13,3 @@ click on Restart.
 7. The user will find outputs at end of each cell in file
 GC_test.ipynb, which is the file where initial code was run, debugged and in GC_UI.ipynb, the user will find UI in the last cell.
 
-Check Out: https://drive.google.com/open?id=1C6iz2VyxyuGvCVv5HP2LQ1zCKq_4X3J_
-
