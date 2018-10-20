@@ -14,4 +14,8 @@ click on Restart.
 GC_test.ipynb, which is the file where initial code was run, debugged and in GC_UI.ipynb, the user will find UI in the last cell.
 
 
-[![Watch the video](https://drive.google.com/open?id=1C6iz2VyxyuGvCVv5HP2LQ1zCKq_4X3J_)
+
+
+<figure class="video_container">
+  <iframe src="https://drive.google.com/open?id=1C6iz2VyxyuGvCVv5HP2LQ1zCKq_4X3J_" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
